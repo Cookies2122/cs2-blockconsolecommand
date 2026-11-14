@@ -1,0 +1,9 @@
+"Phrases"
+{
+    "CommandBlocked"
+    {
+        "en"	"This command is blocked."
+        "ru"	"Эта команда заблокирована."
+        "ua"	"Ця команда заблокована."
+    }
+}
